@@ -37,8 +37,8 @@ whether a student will withdraw before completing their course.
 ## 🔍 Key Findings
 
 ### Overall Dropout Rate
-!(https://github.com/Shikha997/EdTech-Student-Dropout-Prediction/blob/main/Overall%20Dropout%20Rate.png)
-Overall Dropout Rate.png
+![Overall Dropout Rate](https://raw.githubusercontent.com/Shikha997/EdTech-Student-Dropout-Prediction/main/Overall%20Dropout%20Rate.png)
+
 - Overall dropout rate: 31.2%
   Dropout rate - 0 previous attempts: 30.6%
   Dropout rate - 1 previous attempt:  34.9%
@@ -48,14 +48,14 @@ Overall Dropout Rate.png
 ---
 
 ### Age is a Strong Dropout Predictor
-!(https://github.com/Shikha997/EdTech-Student-Dropout-Prediction/blob/main/Dropout%20Rate%20by%20Age.png)
+![Dropout by Age](https://raw.githubusercontent.com/Shikha997/EdTech-Student-Dropout-Prediction/main/Dropout%20Rate%20by%20Age.png)
 - Younger students (0-35) showed the highest withdrawal rates
 - Students aged 55+ were the most likely to complete their course
 
 ---
 
 ### Previous Failures Increase Risk
-!(https://github.com/Shikha997/EdTech-Student-Dropout-Prediction/blob/main/Dropout%20by%20Previous%20Attempts.png)
+![Dropout by Attempts](https://raw.githubusercontent.com/Shikha997/EdTech-Student-Dropout-Prediction/main/Dropout%20by%20Previous%20Attempts.png)
 - Students attempting a module for the second or third time
   had significantly higher dropout rates
 - Suggests repeated failure is a compounding risk factor
@@ -63,14 +63,14 @@ Overall Dropout Rate.png
 ---
 
 ### Education Level Matters
-!(https://github.com/Shikha997/EdTech-Student-Dropout-Prediction/blob/main/Dropout%20by%20Education%20Level.png)
+![Dropout by Education Level](https://raw.githubusercontent.com/Shikha997/EdTech-Student-Dropout-Prediction/main/Dropout%20by%20Education%20Level.png)
 - Students with lower entry qualifications withdrew more frequently
 - HE-qualified students showed stronger completion rates
 
 ---
 
 ### Deprivation Linked to Dropout
-!(https://github.com/Shikha997/EdTech-Student-Dropout-Prediction/blob/main/Dropout%20Rate%20by%20Deprivation%20Band%20IMD.png)
+![Dropout by IMD](https://raw.githubusercontent.com/Shikha997/EdTech-Student-Dropout-Prediction/main/Dropout%20Rate%20by%20Deprivation%20Band%20IMD.png)
 - Students in the most deprived areas (0-10% IMD) had 
   noticeably higher dropout rates
 - Suggests financial and social pressures play a role
@@ -116,22 +116,6 @@ Based on these findings, early intervention should target:
 - **Python** — Pandas, NumPy, Matplotlib, Seaborn
 - **Skills demonstrated** — Data cleaning, EDA, 
   missing value treatment, data visualization
-
----
-
-## 🚀 How to Reproduce This Analysis
-
-1. Clone this repo:
-```bash
-git clone https://github.com/yourusername/student-dropout-analysis
-```
-
-2. Download the OULAD dataset from the 
-[official page](https://analyse.kmi.open.ac.uk/open_dataset)
-
-3. Place all CSV files in the `/data` folder
-
-4. Open `notebook.ipynb` in Jupyter and run all cells
 
 ---
 
