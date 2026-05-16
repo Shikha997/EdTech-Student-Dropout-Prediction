@@ -77,11 +77,24 @@ Overall Dropout Rate.png
 
 ---
 
-## Insights and Findings
-- Overall dropout rate: **32.4%**
-- Students with previous failed attempts were **1.47x** more likely to withdraw
-- Students in the most deprived areas (0-10% IMD) dropped out at **38.2%** 
-  vs **24.3%** for the least deprived
+## 🔍 Key Findings
+
+- **31.2%** of students withdrew before completing 
+  their course — nearly 1 in 3
+
+- Students in the **most deprived areas (0-10% IMD)** 
+  dropped out at **37.2%** compared to **25.9%** for the 
+  least deprived making them **44% more likely** to withdraw. 
+  This suggests financial and social pressures are 
+  significant barriers to course completion.
+
+- Students **retaking a module** after a previous failure 
+  showed a **14% higher dropout rate** (34.9% vs 30.6%), 
+  indicating prior struggle is a compounding risk factor.
+
+- Deprivation shows a **clear gradient** dropout rate 
+  consistently falls as wealth increases, from 37.2% 
+  down to 25.9% across IMD bands.
 
 ## 💡 Recommendations for EdTech Platforms
 
@@ -122,4 +135,3 @@ git clone https://github.com/yourusername/student-dropout-analysis
 
 ---
 
-## 📁 Repository Structure
